@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaspreet Singh
 - I am pursuing Computing Science at the University of Alberta
-- Interested in internships, collaborations 
+
 
 
 <!---

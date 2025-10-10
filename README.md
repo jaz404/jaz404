@@ -7,8 +7,6 @@
 **Co-President @ AlbertaLoop | Former Co-op (CV) @ Nokia Bell Labs**
 
 
-<div><br></div>
-
 ---
 
 ## **My Tech Stack**

@@ -3,7 +3,7 @@
 # <div align="center">Hi there 👋, I'm Jaspreet Chhabra!</div>
 
 **Computing Science @ University of Alberta**  
-**Software Developer | Machine Learning | Robotics | Embedded Systems**  
+**Software Development | Machine Learning | Robotics | Embedded Systems**  
 **Co-President @ AlbertaLoop | Former Co-op (CV) @ Nokia Bell Labs**
 
 

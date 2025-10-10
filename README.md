@@ -4,7 +4,7 @@
 
 **Computing Science @ University of Alberta**  
 **Software Development | Machine Learning | Robotics | Embedded Systems**  
-**Co-President @ AlbertaLoop | Former Co-op (CV) @ Nokia Bell Labs**
+**Co-President @ Albertaloop | Former Co-op (CV) @ Nokia Bell Labs**
 
 
 ---

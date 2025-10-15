@@ -17,8 +17,6 @@
 
 
 
----
-
 ## **About Me**
 
 I am Jaspreet Chhabra, a final-year Computing Science student at the University of Alberta, graduating soon and seeking full-time opportunities in **Software Development, Machine Learning, Robotics,** and **Embedded Systems**.
@@ -30,7 +28,6 @@ Previously, I worked as a Research Assistant at the Smart Mapping Laboratory, de
 I currently serve as the Co-President of Albertaloop, a student-led Hyperloop team, where I oversee pod development, guide the electrical, software, and propulsion teams.
 
 
----
 
 ## **Connect with Me**
 
